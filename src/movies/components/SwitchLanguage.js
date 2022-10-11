@@ -28,7 +28,7 @@ const SwitchLanguage = (props) => {
           overlay={<MenuLanguage changLanguage={props.changLanguage} />}
         >
           <Button>
-            Chon ngon ngu
+            choose language
             <DownOutlined />
           </Button>
         </Dropdown>
